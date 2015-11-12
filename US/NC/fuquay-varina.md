@@ -5,5 +5,7 @@
 
 - Hotels:
  - None - stay in Apex instead
- 
+
 - Fun things to do:
+ - Go Hiking at Raven Rock in Lillington
+ - Go to Naylor's Family Fun Farm
