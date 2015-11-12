@@ -1,8 +1,8 @@
 ## San Francisco, CA
   - Places to eat:
-    - Gary Danko's
-    - Foreign Cinema
-    - Brenda's French Soul Food
+    - Gary Danko's - New American
+    - Foreign Cinema - New American
+    - Brenda's French Soul Food - Southern Soul Food
   
   - Fun things to do:
     - Exploratorium
